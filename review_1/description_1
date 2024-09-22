@@ -1,0 +1,44 @@
+Distributed power controlled medium access control for wireless Mesh Networks by keshava
+
+
+Abstract:
+In wireless mesh networks (WMNs), efficient management of transmission power and medium access is crucial to ensure reliable communication and optimal use of network resources. This paper presents a distributed power-controlled medium access control (MAC) protocol for WMNs, where each node independently adjusts its transmission power to meet a target Signal-to-Interference-plus-Noise Ratio (SINR). The proposed methodology leverages an iterative distributed power control algorithm, wherein each node monitors its SINR and dynamically increases or decreases its transmission power based on interference from neighboring nodes
+
+Literature Survey:
+
+
+
+Objectives:
+
+
+Is to minimize interference, conserve energy, and ensure that all nodes achieve the desired SINR. This approach enables decentralized power management and implicit medium access control, ensuring efficient and scalable network operation. Simulation results demonstrate the effectiveness of the proposed scheme in converging to an optimal power distribution, achieving the target SINR for all nodes while mitigating interference. The methodology provides a flexible solution for improving network performance in dynamic and interference-prone environments such as WMNs.
+
+Existing Methods-Drawbacks
+
+
+Proposed Method:
+
+
+
+
+
+
+
+Architecture Diagram:
+
+
+
+
+ Modules:
+
+
+
+
+Software Details: 
+	Working on it with methodology and interfacing calculations
+
+ 
+
+Time Line by Gantt Chart: 
+
+References:
